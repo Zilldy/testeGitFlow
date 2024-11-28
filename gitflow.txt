@@ -1,0 +1,11 @@
+prod -> Prod.
+
+dev -> Homol
+ 
+feature/ -> Task do jira, nova funcionalidade
+
+bugfix/ -> Mesmo do hotfix mas puxa da dev
+
+hotfix/ -> Puxa da main, CITI ta com problema no pix pra resolver, precisa de uma mudanç no código
+
+release/ -> branch criada a partir da subida de produção e normalmente é onde se concentra os testes
